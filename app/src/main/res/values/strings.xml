@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Jokester</string>
+    <string name="button_response">Timing!</string>
+    <string name="button_text">What is the secret of comdedy?</string>
 </resources>
